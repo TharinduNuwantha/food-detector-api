@@ -6,3 +6,7 @@ fastapi
 uvicorn
 pillow
 python-multipart
+scikit-learn==1.7.2
+joblib
+numpy
+pydantic
